@@ -60,8 +60,6 @@ Add voice input/output functionality
 
 Store chat history using localStorage or a backend
 
-![Chatbot Screenshot](https://raw.githubusercontent.com/your-username/your-repo/main/images/chatbot.png)
-
 Enable image recognition or analysis via AI
 
 Implement user authentication and sessions
