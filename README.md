@@ -60,7 +60,8 @@ Add voice input/output functionality
 
 Store chat history using localStorage or a backend
 
-Screenshot 2025-04-11 231217.png
+![Chatbot Screenshot](images/chatbot-screenshot.png)
+
 Enable image recognition or analysis via AI
 
 Implement user authentication and sessions
