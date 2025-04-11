@@ -59,7 +59,7 @@ Flexbox layout and media queries ensure usability across screen sizes
 Add voice input/output functionality
 
 Store chat history using localStorage or a backend
-
+"C:\Users\rahul\OneDrive\Desktop\OneDrive\Pictures\Screenshots\Screenshot 2025-04-11 231217.png"
 Enable image recognition or analysis via AI
 
 Implement user authentication and sessions
