@@ -6,7 +6,7 @@ A fully responsive, interactive AI-powered chatbot built using modern web techno
 🛠️ Tech Stack
 HTML5 – Markup structure for chatbot UI
 
-CSS3 – Custom styling for a clean, responsive design
+#CSS3 – Custom styling for a clean, responsive design
 
 JavaScript  – Handles chatbot logic, API communication, and dynamic UI updates
 
@@ -68,4 +68,4 @@ Implement user authentication and sessions
 📸 Screenshots
 (You can add images here to showcase the chatbot UI in action)
 
-C:\Users\rahul\OneDrive\Desktop\OneDrive\Pictures\Screenshots
+
