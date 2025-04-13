@@ -1,4 +1,5 @@
 # AICHATBOT
+![image](https://github.com/user-attachments/assets/f042a568-482a-4358-9fe3-cb75383f27ab)
 
 A fully responsive, interactive AI-powered chatbot built using modern web technologies. This chatbot allows users to ask questions and get real-time answers from Google’s Gemini AI, while also offering a fun and engaging experience with features like emoji support, image uploads, and smooth UI interactions.
 
